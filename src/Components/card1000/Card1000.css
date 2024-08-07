@@ -1,0 +1,27 @@
+.card1000{
+    .title{
+    font-size: 25px;
+    background-color: rgb(4, 4, 4);
+    color: #fffefe;
+    border: #fffefe 1px solid;
+    height: 50px;
+    }
+    .description{
+        color: #000;
+    font-size: 15px;
+    background-color: rgb(239, 232, 232);
+    height: 50px;
+
+    }
+    .rate{
+        background-color: rgb(1, 1, 1);
+        font-size: 40px;
+        color: #fffefe;
+        height: 70px;
+    }
+    .descriptionheader{
+        background-color: rgb(205, 206, 206);
+        color: #000;
+        height: 60px;
+    }
+    }
