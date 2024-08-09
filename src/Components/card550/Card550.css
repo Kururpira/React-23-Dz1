@@ -1,4 +1,9 @@
 .card550{
+    display: flex;
+    position: relative;
+    transform: scale(1.04);
+
+
     .title{
     font-size: 25px;
     background-color: rgb(191, 16, 25);
@@ -11,6 +16,7 @@
     font-size: 15px;
     background-color: rgb(239, 232, 232);
     height: 50px;
+    justify-content: center;
 
     }
     .rate{
